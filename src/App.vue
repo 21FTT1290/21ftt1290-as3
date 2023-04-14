@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 	<div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-12 dark:bg-gray-900 dark:text-gray-100">
-		<img src="src/assets/shahmi.jpg" alt="" class="w-32 h-32 mx-auto rounded-full dark:bg-gray-500 aspect-square">
+		<img src="src/assets/unknown.jpg" alt="" class="w-32 h-32 mx-auto rounded-full dark:bg-gray-500 aspect-square">
 		<div class="space-y-4 text-center divide-y divide-gray-700">
 			<div class="my-2 space-y-1">
 				<h2 class="text-xl font-semibold sm:text-2xl">Shahmi Haqeemi </h2>
