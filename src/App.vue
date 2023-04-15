@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 		<div class="space-y-4 text-center divide-y divide-gray-700">
 			<div class="my-2 space-y-1">
 				<h2 class="text-xl font-semibold sm:text-2xl">Shahmi Haqeemi </h2>
-				<p class="px-5 text-xs sm:text-base dark:text-gray-400">Politeknik Brunei Student <br> 21FTT1290</p>
+				<p class="px-5 text-xs sm:text-base dark:text-gray-400">Politeknik Brunei Student <br> Bahit</p>
 			</div>
 		</div>
 	</div>
